@@ -5,5 +5,6 @@ Team Members
  41 - Arijeet Roy
  40 - Bipul Tarafdar
  
-Problem 1 - Please run the DB script before running the JAVA program. included an external library to parse JSON
-Problem 2 - Included external library to parse JSON
+ Please run the DB script before running the JAVA program. Included two external libraries to parse JSON and connect to mySQL which needs to be referenced to the project as an external library. 
+ 1. mySql-connector.jar
+ 2. json-simple.jar
